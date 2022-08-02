@@ -1,2 +1,3 @@
-# nginx
-forked
+# pterodactyl-nginx
+
+self explanatory
